@@ -73,7 +73,7 @@ The **receptors** are ranked by their binding strength to modified ligands, aimi
 * Drug discovery researchers seeking novel protein targets or repurposing opportunities
 * Computational chemists designing or refining small molecule libraries
 
-## Use Case
+## 🏭  Use Case
 ### 🧬 Life Science
   🔬 In-Silico Modelling
 
