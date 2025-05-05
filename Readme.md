@@ -85,10 +85,10 @@ The **receptors** are ranked by their binding strength to modified ligands, aimi
 
 ## 👥 Contributors
 
+
+* **\[Abinash Mohanty]** – \[Team Lead]
+* **\[Priyanka Mahendra Shah]** – \[GenAI Developer]
 * **\[Rahul Suresh Shedge]** – \[AI Enginer/GenAI Developer]
-* **\[To be completed: Contributor 2 Name]** – \[Role]
-* **\[To be completed: Contributor 3 Name]** – \[Role]
-* **\[To be completed: Contributor 4 Name]** – \[Role]
 
 ## 📸 Screenshots
 
