@@ -2,7 +2,7 @@
 
 ---
 
-### 🧠 Your Use Case Recap:
+### 🧠 Use Case:
 
 1. 🩺 **Input**: A *disease*.
 2. 🧬 **Agents**:
