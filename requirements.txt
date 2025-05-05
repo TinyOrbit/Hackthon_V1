@@ -1,0 +1,6 @@
+
+
+openai
+crewai
+requests
+notebook
