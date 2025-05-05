@@ -8,7 +8,7 @@ Our project tackles the challenge of discovering and prioritizing new drug targe
 
 ### 🩺 **Input**
 
-A single **disease name** provided by the user.
+Accepts any user-provided **disease name** to initiate the in-silico discovery workflow.
 
 ### 🧠 **Pipeline Agents & Roles**
 
