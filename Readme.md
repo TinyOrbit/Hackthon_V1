@@ -73,9 +73,9 @@ The **receptors** are ranked by their binding strength to modified ligands, aimi
 * Drug discovery researchers seeking novel protein targets or repurposing opportunities
 * Computational chemists designing or refining small molecule libraries
 
-## 🏭 Industry Application
-
-**Pharmaceutical Industry** — early-stage drug discovery, lead identification, and target validation.
+## Use Case
+### 🧬 Life Science
+  🔬 In-Silico Modelling
 
 ## 📊 Example Scenarios
 
