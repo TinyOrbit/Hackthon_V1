@@ -16,25 +16,25 @@
 
 ### ✅ So What Matters for Ranking?
 
-#### **Your goal is to discover new useful protein targets for a disease.**
+#### **Our goal is to discover new useful protein targets for a disease.**
 
 That means:
 
-> ✅ **You are ranking *receptors* based on their binding affinity with a modified ligand.**
+> ✅ **We are ranking *receptors* based on their binding affinity with a modified ligand.**
 
 The assumption is: if a **new protein** (receptor) binds **strongly** to a modified or repurposed ligand, it might be a **novel therapeutic target** — either primary or off-target with benefit.
 
 ---
 
-### 🧬 Modified Ligands in Your Pipeline:
+### 🧬 Modified Ligands in our Pipeline:
 
-* You **start with known ligands** and **modify them** (e.g., via RDKit).
+* We **start with known ligands** and **modify them** (e.g., via RDKit).
 * These modifications aim to improve binding or find new protein matches.
 * So the **ligand design** is your way of probing *new protein spaces*.
 
 Thus:
 
-> ✅ **You rank receptors to discover promising targets** — possibly new ones — for the modified ligands.
+> ✅ **We rank receptors to discover promising targets** — possibly new ones — for the modified ligands.
 
 ---
 
